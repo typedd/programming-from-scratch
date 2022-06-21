@@ -1,2 +1,4 @@
 - [Эффекты, значения и вычисление](effects-values-calculation.md)
 - [Что такое синтаксис и семантика](syntax.md)
+- [Значения (и их типы)](values.md)
+- [Значения (простые и составные)](values-primitive-complex.md)
