@@ -1,0 +1,1 @@
+- [Эффекты, значения и вычисление](effects-values-calculation.md)
