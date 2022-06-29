@@ -2,6 +2,9 @@
 - [Что такое синтаксис и семантика](syntax.md)
 - [Значения (и их типы)](values.md)
 - [Значения: простые и составные](values-primitive-complex.md)
+- [Типы и их обитатели. Кардиналити](types-inhabitants.md)
+- [Практикум: значения и типы в Flow.js](practice-values-types-flowjs.md)
+---
 - [Вычисление (англ. calculation или computation: в чем разница?)](calculation-vs-computation.md)
 - [Время компиляции и время выполнения](compilation-and-runtime.md)
 - [Литеры](values-literal.md)
